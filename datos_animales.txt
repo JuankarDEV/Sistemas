@@ -1,0 +1,4 @@
+1|Leon|mamífero|20
+2|hiena|mamífero|10
+3|Jirafa|mamífero|25
+9|Camaleon|Extraterreste|213
